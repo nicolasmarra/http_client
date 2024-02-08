@@ -1,7 +1,6 @@
 # TP noté : GET HTTP
 
-Dans ce TP de Service Réseaux dont le but était de programmer un client HTTP en C, nous avons pu faire le programme de base
-
+Le but de ce TP était de programmer un client HTTP en C, nous avons pu faire le programme de base.
 Nous avons aussi implémenté les parties optionnelles, notamment :
 
 * Mode debug
